@@ -1,0 +1,1 @@
+FROM longhornio/csi-provisioner:v5.2.0
